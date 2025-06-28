@@ -17,12 +17,6 @@
 - 💼 I'm looking for **Full-time employment** as a Fullstack|Frontend Developer.
 
 
-<p align="center">
-  <a href="https://t.me/linkelsnole">
-    <img src="https://img.shields.io/badge/Telegram-@linkelsnole-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
-
 ### 🛠 Technologies
 
 <p align="center">
